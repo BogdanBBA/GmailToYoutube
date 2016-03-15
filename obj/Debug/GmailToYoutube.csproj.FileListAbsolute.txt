@@ -1,0 +1,205 @@
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\GmailToYoutube.exe.config
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\GmailToYoutube.exe
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\GmailToYoutube.pdb
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.FLogin.resources
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.Properties.Resources.resources
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.csproj.GenerateResource.Cache
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.exe
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.pdb
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Core.dll
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.dll
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\log4net.dll
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Zlib.Portable.dll
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.pdb
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.xml
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Core.xml
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\log4net.xml
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Zlib.Portable.xml
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.FViewer.resources
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.FUpdate.resources
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\obj\Debug\BBA.VisualComponents.MyForm.resources
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\Bogdan\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\GmailToYoutube.exe.config
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\GmailToYoutube.exe
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\GmailToYoutube.pdb
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.dll
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Core.dll
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.dll
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\log4net.dll
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Zlib.Portable.dll
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.pdb
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.xml
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.xml
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Core.pdb
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Core.xml
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\log4net.xml
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\bin\Debug\Zlib.Portable.xml
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.csprojResolveAssemblyReference.cache
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.FAbout.resources
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.FLogin.resources
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.FSettings.resources
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.FUpdate.resources
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.FViewer.resources
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.Properties.Resources.resources
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\obj\Debug\BBA.VisualComponents.MyForm.resources
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.csproj.GenerateResource.Cache
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.exe
+C:\Users\bobl395\Downloads\c\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.pdb
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.FAbout.resources
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.FLogin.resources
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.FPlaylistCreateAndOpen.resources
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.FSettings.resources
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.FTheme.resources
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.FUpdate.resources
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.FViewer.resources
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.Properties.Resources.resources
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.csproj.GenerateResource.Cache
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\GmailToYoutube.exe.config
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\GmailToYoutube.exe
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\GmailToYoutube.pdb
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.dll
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Core.dll
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.dll
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\log4net.dll
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Zlib.Portable.dll
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.pdb
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.xml
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.xml
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Core.pdb
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Core.xml
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\log4net.xml
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\bin\Debug\Zlib.Portable.xml
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.exe
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.pdb
+C:\Users\BogdanBBA\Desktop\GmailToYoutube\GmailToYoutube\obj\Debug\BBA.VisualComponents.WindowHelper.resources
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\GmailToYoutube.exe.config
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\GmailToYoutube.exe
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\GmailToYoutube.pdb
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.dll
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Core.dll
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.dll
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\log4net.dll
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Zlib.Portable.dll
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.pdb
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.xml
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.xml
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Core.pdb
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Core.xml
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\log4net.xml
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\bin\Debug\Zlib.Portable.xml
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.FAbout.resources
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.FLogin.resources
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.FPlaylistCreateAndOpen.resources
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.FSettings.resources
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.FTheme.resources
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.FUpdate.resources
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.FViewer.resources
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.Properties.Resources.resources
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\obj\Debug\BBA.VisualComponents.WindowHelper.resources
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.csproj.GenerateResource.Cache
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.exe
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.pdb
+C:\Users\BogdanBBA\Documents\Z. Programming\C#\GmailToYoutube\GmailToYoutube\obj\Debug\GmailToYoutube.csprojResolveAssemblyReference.cache
