@@ -895,10 +895,10 @@
             this.label40.ForeColor = System.Drawing.Color.Wheat;
             this.label40.Location = new System.Drawing.Point(657, 647);
             this.label40.Name = "label40";
-            this.label40.Size = new System.Drawing.Size(413, 13);
+            this.label40.Size = new System.Drawing.Size(473, 13);
             this.label40.TabIndex = 67;
-            this.label40.Text = "When clicking \'Hide\' on from the main menu form, whether to hide the form complet" +
-    "ely";
+            this.label40.Text = "When clicking \'Hide\' on from the main menu form, whether to unfocus the form or h" +
+    "ide it completely";
             // 
             // hideWindowInsteadOfAltTabChB
             // 
@@ -908,9 +908,9 @@
             this.hideWindowInsteadOfAltTabChB.Font = new System.Drawing.Font("Segoe UI Semibold", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.hideWindowInsteadOfAltTabChB.Location = new System.Drawing.Point(638, 622);
             this.hideWindowInsteadOfAltTabChB.Name = "hideWindowInsteadOfAltTabChB";
-            this.hideWindowInsteadOfAltTabChB.Size = new System.Drawing.Size(352, 29);
+            this.hideWindowInsteadOfAltTabChB.Size = new System.Drawing.Size(335, 29);
             this.hideWindowInsteadOfAltTabChB.TabIndex = 66;
-            this.hideWindowInsteadOfAltTabChB.Text = "Hide windows instead of Alt+Tab -ing";
+            this.hideWindowInsteadOfAltTabChB.Text = "Alt+Tab window instead of hiding it";
             this.hideWindowInsteadOfAltTabChB.UseVisualStyleBackColor = false;
             // 
             // label41

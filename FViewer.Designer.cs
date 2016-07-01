@@ -123,10 +123,10 @@
             // 
             this.subsubTitleL.AutoSize = true;
             this.subsubTitleL.BackColor = System.Drawing.Color.Transparent;
-            this.subsubTitleL.Font = new System.Drawing.Font("Segoe UI Light", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.subsubTitleL.Font = new System.Drawing.Font("Ubuntu Light", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.subsubTitleL.Location = new System.Drawing.Point(240, 155);
             this.subsubTitleL.Name = "subsubTitleL";
-            this.subsubTitleL.Size = new System.Drawing.Size(206, 21);
+            this.subsubTitleL.Size = new System.Drawing.Size(231, 22);
             this.subsubTitleL.TabIndex = 6;
             this.subsubTitleL.Text = "subsubTitleL word word word";
             this.subsubTitleL.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -135,10 +135,10 @@
             // 
             this.subTitleL.AutoSize = true;
             this.subTitleL.BackColor = System.Drawing.Color.Transparent;
-            this.subTitleL.Font = new System.Drawing.Font("Segoe UI Semibold", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.subTitleL.Font = new System.Drawing.Font("Ubuntu", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.subTitleL.Location = new System.Drawing.Point(236, 135);
             this.subTitleL.Name = "subTitleL";
-            this.subTitleL.Size = new System.Drawing.Size(186, 20);
+            this.subTitleL.Size = new System.Drawing.Size(212, 21);
             this.subTitleL.TabIndex = 5;
             this.subTitleL.Text = "subTitleL word word word";
             this.subTitleL.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -156,13 +156,13 @@
             // videoTitleL
             // 
             this.videoTitleL.BackColor = System.Drawing.Color.Transparent;
-            this.videoTitleL.Font = new System.Drawing.Font("Segoe UI Semibold", 32F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.videoTitleL.Font = new System.Drawing.Font("Ubuntu Light", 32.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.videoTitleL.Location = new System.Drawing.Point(114, 15);
             this.videoTitleL.Name = "videoTitleL";
             this.videoTitleL.Size = new System.Drawing.Size(244, 120);
             this.videoTitleL.TabIndex = 0;
             this.videoTitleL.Text = "videoTitleL word word word";
-            this.videoTitleL.TextAlign = System.Drawing.ContentAlignment.TopRight;
+            this.videoTitleL.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // leftP
             // 
@@ -584,10 +584,10 @@
             // 
             this.playlistL.AutoSize = true;
             this.playlistL.BackColor = System.Drawing.Color.Transparent;
-            this.playlistL.Font = new System.Drawing.Font("Segoe UI Semibold", 32F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.playlistL.Font = new System.Drawing.Font("Ubuntu Light", 32.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.playlistL.Location = new System.Drawing.Point(0, 0);
             this.playlistL.Name = "playlistL";
-            this.playlistL.Size = new System.Drawing.Size(162, 59);
+            this.playlistL.Size = new System.Drawing.Size(170, 53);
             this.playlistL.TabIndex = 1;
             this.playlistL.Text = "Playlist";
             this.playlistL.TextAlign = System.Drawing.ContentAlignment.BottomRight;

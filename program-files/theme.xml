@@ -1,7 +1,7 @@
 <Theme>
-  <Background normal="#101010" highlighted="#181818" />
-  <Text normal="WhiteSmoke" highlighted="#6D923D" />
-  <Accent normal="#6D923D" highlighted="#415623" />
-  <Youtuber normal="#A2E11E" highlighted="#415623" />
-  <Video normal="#6D923D" highlighted="#D6EBA5" />
+  <Background normal="#001B22" highlighted="#00252F" />
+  <Text normal="White" highlighted="#FB6104" />
+  <Accent normal="#FCA503" highlighted="#FB6104" />
+  <Youtuber normal="#B2101F" highlighted="#B2101F" />
+  <Video normal="#FCA503" highlighted="#FB6104" />
 </Theme>

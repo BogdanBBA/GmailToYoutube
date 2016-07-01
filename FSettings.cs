@@ -74,7 +74,7 @@ namespace GmailToYoutube
             allowInternalBrowserNavigationChB.Checked = sett.AllowInternalBrowserNavigation;
             closeInternalBrowserPageWhenVideoUnfocusedChB.Checked = sett.CloseInternalBrowserPageWhenVideoUnfocused;
             markToDeleteVideosAfterWatchingChB.Checked = sett.MarkToDeleteVideoAfterWatching;
-            hideWindowInsteadOfAltTabChB.Checked = sett.HideWindowInsteadOfAltTabbing;
+            hideWindowInsteadOfAltTabChB.Checked = sett.AltTabWindowInsteadOfHiding;
 
             listWidthPercentageTrB_Scroll(null, null);
             playlistWidthPercentageTrB_Scroll(null, null);
@@ -124,7 +124,7 @@ namespace GmailToYoutube
             sett.OpenLinksInInternalBrowser = openLinksInInternalBrowserChB.Checked;
             sett.AllowInternalBrowserNavigation = allowInternalBrowserNavigationChB.Checked;
             sett.CloseInternalBrowserPageWhenVideoUnfocused = closeInternalBrowserPageWhenVideoUnfocusedChB.Checked;
-            sett.HideWindowInsteadOfAltTabbing = hideWindowInsteadOfAltTabChB.Checked;
+            sett.AltTabWindowInsteadOfHiding = hideWindowInsteadOfAltTabChB.Checked;
             sett.MarkToDeleteVideoAfterWatching = markToDeleteVideosAfterWatchingChB.Checked;
 
             string saveResult = this.viewerForm.Database.SaveToDatabase(Paths.DatabaseFile);

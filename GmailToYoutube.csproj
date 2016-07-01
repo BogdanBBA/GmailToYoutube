@@ -174,9 +174,6 @@
     <Compile Include="BBA\VisualComponents\MyPanel.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="BBA\VisualComponents\MyProgressBar.cs">
-      <SubType>Component</SubType>
-    </Compile>
     <Compile Include="Settings.cs" />
     <EmbeddedResource Include="FAbout.resx">
       <DependentUpon>FAbout.cs</DependentUpon>

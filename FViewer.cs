@@ -434,10 +434,10 @@ namespace GmailToYoutube
 
         internal void hideB_Click(object sender, EventArgs e)
         {
-            if (this.Visible && this.Database.Settings.HideWindowInsteadOfAltTabbing)
+            if ((this.Visible && this.Database.Settings.AltTabWindowInsteadOfHiding) || sender is FUpdate)
             {
                 WindowHelper.SetForegroundWindow(this.Handle);
-                KeyboardHelper.AltTab();
+                KeyboardHelper.AltTab(sender is FUpdate ? 2 : 1);
             }
             else
                 this.Visible = !this.Visible;
@@ -645,7 +645,7 @@ namespace GmailToYoutube
             {
                 this.PlayingVideo = null;
                 System.Diagnostics.Process.Start(url);
-                if (this.Database.Settings.HideAppWhileWatchingVideo && !this.Database.Settings.HideWindowInsteadOfAltTabbing)
+                if (this.Database.Settings.HideAppWhileWatchingVideo && !this.Database.Settings.AltTabWindowInsteadOfHiding)
                     this.hideB_Click(null, null);
             }
         }

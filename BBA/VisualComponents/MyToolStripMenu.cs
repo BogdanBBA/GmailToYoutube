@@ -17,7 +17,7 @@ namespace GmailToYoutube.BBA.VisualComponents
             : base()
         {
             this.BackColor = MyGUIs.Background.Normal.Color;
-            this.Font = new Font("Segoe UI", 16, FontStyle.Bold);
+            this.Font = new Font("Ubuntu", 16, FontStyle.Bold);
             this.Cursor = Cursors.Hand;
             this.Renderer = new MyRenderer();
         }
@@ -28,7 +28,7 @@ namespace GmailToYoutube.BBA.VisualComponents
     /// </summary>
     public class MyRenderer : ToolStripProfessionalRenderer
     {
-        protected static readonly Font textFont = new Font("Segoe UI", 16, FontStyle.Bold);
+        protected static readonly Font textFont = new Font("Ubuntu", 16, FontStyle.Bold);
         protected static readonly Pair<int> barHeight = new Pair<int>(2, 4);
 
         protected override void OnRenderMenuItemBackground(ToolStripItemRenderEventArgs e)

@@ -27,6 +27,7 @@ namespace GmailToYoutube.BBA.VisualComponents
         public AbstractYoutuberVideoControl(Settings settings, EventHandler mouseOver_SetLastAbstractControl_EventHandler)
             : base()
         {
+            this.DoubleBuffered = true;
             this.settings = settings;
             this.mouseOver_SetLastAbstractControl_EventHandler = mouseOver_SetLastAbstractControl_EventHandler;
             this.Cursor = Cursors.Hand;
@@ -83,8 +84,8 @@ namespace GmailToYoutube.BBA.VisualComponents
     public class YoutuberControl : AbstractYoutuberVideoControl
     {
         public static ControlSizes ControlSize = ControlSizes.Large;
-        protected static readonly Font TitleFont = new Font("Segoe UI", 16, FontStyle.Bold);
-        protected static readonly Font SubtitleFont = new Font("Segoe UI", 12, FontStyle.Bold);
+        protected static readonly Font TitleFont = new Font("Ubuntu", 18, FontStyle.Bold);
+        protected static readonly Font SubtitleFont = new Font("Ubuntu", 15, FontStyle.Bold);
 
         private Youtuber youtuber;
         public Youtuber Youtuber
@@ -158,9 +159,9 @@ namespace GmailToYoutube.BBA.VisualComponents
     public class VideoControl : AbstractYoutuberVideoControl
     {
         public static ControlSizes ControlSize = ControlSizes.Large;
-        protected static readonly Font TitleFont = new Font("Segoe UI Light", 15, FontStyle.Regular);
-        protected static readonly Font SubtitleFont = new Font("Segoe UI", 8, FontStyle.Regular);
-        protected static readonly Font StatsFont = new Font("Segoe UI", 12, FontStyle.Bold);
+        protected static readonly Font TitleFont = new Font("Ubuntu Light", 16, FontStyle.Regular);
+        protected static readonly Font SubtitleFont = new Font("Ubuntu", 12, FontStyle.Regular);
+        protected static readonly Font StatsFont = new Font("Ubuntu", 15, FontStyle.Bold);
 
         private bool indented;
 
@@ -196,8 +197,8 @@ namespace GmailToYoutube.BBA.VisualComponents
         {
             get
             {
-                return string.Format("Published: {0} / {1}",
-                    this.videoSummary.Published.HasValue ? this.videoSummary.Published.Value.ToString("dddd, d'/'MMM'/'yyyy, HH:mm") : "unknown",
+                return string.Format("{0}   /   {1}",
+                    this.videoSummary.Published.HasValue ? this.videoSummary.Published.Value.ToString("dddd, d MMMM yyyy, HH:mm") : "unknown",
                     Utils.Plural("view", (this.videoSummary.Views.HasValue ? (long) this.videoSummary.Views.Value : 0), true));
             }
         }

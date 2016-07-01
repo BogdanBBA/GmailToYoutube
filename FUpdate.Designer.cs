@@ -32,10 +32,10 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FUpdate));
             this.workBgW = new System.ComponentModel.BackgroundWorker();
             this.closeT = new System.Windows.Forms.Timer(this.components);
-            this.stepPB = new System.Windows.Forms.ProgressBar();
             this.stepL = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.myLoadingIcon1 = new GmailToYoutube.BBA.VisualComponents.MyLoadingIcon();
+            this.hideB = new GmailToYoutube.BBA.VisualComponents.MyButton();
             this.SuspendLayout();
             // 
             // workBgW
@@ -49,16 +49,6 @@
             // 
             this.closeT.Interval = 1000;
             this.closeT.Tick += new System.EventHandler(this.closeT_Tick);
-            // 
-            // stepPB
-            // 
-            this.stepPB.Location = new System.Drawing.Point(59, 138);
-            this.stepPB.MarqueeAnimationSpeed = 10;
-            this.stepPB.Name = "stepPB";
-            this.stepPB.Size = new System.Drawing.Size(398, 32);
-            this.stepPB.Style = System.Windows.Forms.ProgressBarStyle.Marquee;
-            this.stepPB.TabIndex = 3;
-            this.stepPB.Visible = false;
             // 
             // stepL
             // 
@@ -91,12 +81,24 @@
             this.myLoadingIcon1.TabIndex = 8;
             this.myLoadingIcon1.Text = "myLoadingIcon1";
             // 
+            // hideB
+            // 
+            this.hideB.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.hideB.Location = new System.Drawing.Point(159, 145);
+            this.hideB.MakeItBig = true;
+            this.hideB.Name = "hideB";
+            this.hideB.Size = new System.Drawing.Size(200, 60);
+            this.hideB.TabIndex = 9;
+            this.hideB.Text = "UNFOCUS APP";
+            this.hideB.UseVisualStyleBackColor = true;
+            this.hideB.Click += new System.EventHandler(this.hideB_Click);
+            // 
             // FUpdate
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
-            this.ClientSize = new System.Drawing.Size(511, 149);
+            this.ClientSize = new System.Drawing.Size(511, 217);
+            this.Controls.Add(this.hideB);
             this.Controls.Add(this.myLoadingIcon1);
-            this.Controls.Add(this.stepPB);
             this.Controls.Add(this.stepL);
             this.Controls.Add(this.label1);
             this.DrawFormAccent = true;
@@ -120,7 +122,7 @@
         private System.Windows.Forms.Label stepL;
         private System.ComponentModel.BackgroundWorker workBgW;
         private System.Windows.Forms.Timer closeT;
-        private System.Windows.Forms.ProgressBar stepPB;
         private BBA.VisualComponents.MyLoadingIcon myLoadingIcon1;
+        private BBA.VisualComponents.MyButton hideB;
     }
 }

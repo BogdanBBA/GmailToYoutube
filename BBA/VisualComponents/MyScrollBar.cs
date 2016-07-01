@@ -27,6 +27,7 @@ namespace GmailToYoutube.BBA.VisualComponents
         public MyScrollBar(ScrollBarPosition position, Action<double> mouseDragScroll_EventHandler)
             : base()
         {
+            this.DoubleBuffered = true;
             this.position = position;
             this.mouseIsOver = false;
             this.mouseIsClicked = false;

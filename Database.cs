@@ -129,6 +129,7 @@ namespace GmailToYoutube
         {
             this.Videos.Clear();
             this.Youtubers.Clear();
+            this.EmailsFromYoutube = 0;
         }
 
         public string LoadFromDatabase(string filePath)

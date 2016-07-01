@@ -9,7 +9,7 @@ namespace GmailToYoutube.BBA.VisualComponents
     /// </summary>
     public class MyButton : Button
     {
-        protected static readonly Pair<Font> textFont = new Pair<Font>(new Font("Segoe UI", 10, FontStyle.Bold), new Font("Segoe UI", 20, FontStyle.Bold));
+        protected static readonly Pair<Font> textFont = new Pair<Font>(new Font("Ubuntu", 10, FontStyle.Bold), new Font("Ubuntu", 20, FontStyle.Bold));
         public static readonly Pair<int> BarHeight = new Pair<int>(2, 4);
 
         protected bool mouseIsOver = false;
@@ -25,6 +25,7 @@ namespace GmailToYoutube.BBA.VisualComponents
         public MyButton()
             : base()
         {
+            this.DoubleBuffered = true;
             this.Cursor = Cursors.Hand;
         }
 

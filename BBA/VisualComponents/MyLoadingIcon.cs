@@ -22,8 +22,9 @@ namespace GmailToYoutube.BBA.VisualComponents
         public MyLoadingIcon()
             : base()
         {
+            this.DoubleBuffered = true;
             this.timer = new Timer();
-            this.timer.Interval = 90;
+            this.timer.Interval = 50;
             this.timer.Tick += Timer_Tick;
             this.angle = 0;
             this.pieSpan = MyLoadingIcon.PieSpanRange.Normal;

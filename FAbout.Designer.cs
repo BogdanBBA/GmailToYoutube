@@ -217,9 +217,9 @@
             this.label12.Font = new System.Drawing.Font("Segoe UI Semibold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label12.Location = new System.Drawing.Point(407, 310);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(140, 25);
+            this.label12.Size = new System.Drawing.Size(212, 25);
             this.label12.TabIndex = 46;
-            this.label12.Text = "Mar 12th; 2016";
+            this.label12.Text = "Mar 12th, July 1st; 2016";
             // 
             // label13
             // 

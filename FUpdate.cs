@@ -204,7 +204,6 @@ namespace GmailToYoutube
         private void workBgW_ProgressChanged(object sender, ProgressChangedEventArgs e)
         {
             stepL.Text = e.UserState as string;
-            stepPB.Value = e.ProgressPercentage;
         }
 
         // completed
@@ -219,6 +218,11 @@ namespace GmailToYoutube
             this.closeT.Enabled = false;
             this.viewerForm.RefreshInformation(true);
             this.Close();
+        }
+
+        private void hideB_Click(object sender, EventArgs e)
+        {
+            this.viewerForm.hideB_Click(this, null);
         }
     }
 }

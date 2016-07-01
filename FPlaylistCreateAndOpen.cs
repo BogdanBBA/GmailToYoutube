@@ -120,7 +120,7 @@ namespace GmailToYoutube
         {
             this.closeT.Enabled = false;
             this.viewerForm.RefreshInformation(false);
-            if (this.viewerForm.Database.Settings.HideAppWhileWatchingVideo && !this.viewerForm.Database.Settings.HideWindowInsteadOfAltTabbing)
+            if (this.viewerForm.Database.Settings.HideAppWhileWatchingVideo && !this.viewerForm.Database.Settings.AltTabWindowInsteadOfHiding)
                 this.viewerForm.hideB_Click(sender, e);
             this.Close();
         }
